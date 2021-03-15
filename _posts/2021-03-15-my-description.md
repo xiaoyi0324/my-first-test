@@ -3,7 +3,7 @@ layout: post
 title:  "Hello♥我是马海尔西"
 background: "/assets/images/7B1A9606.jpg"
 category: "关于我"
-tags: 了解 
+tags: 自我介绍 
 feature：true
 ---
 
@@ -20,3 +20,4 @@ hi~哥哥姐姐你好呀，很高兴认识你们♥
 > 书籍是人类进步的阶梯  
     
 当然啦，我学习起来可认真了，所以才成绩优异。我还喜欢读书与思考，我觉得思考是一件很重要的事，大家经常被我问住，最后都夸我思想有深度😛
+![  .JPG](../assets/images/   .JPG)
