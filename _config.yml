@@ -1,13 +1,13 @@
 # "/" + 仓库的名字. 资源文件的路径组成部分
-baseurl: "/Girls-Coding-Day-Jekyll-blog-4"
+baseurl: "/my-first-test"
 
 # 网页的标题
-title: "Girls Coding Day"
-username: yourname
+title: "WHO I AM"
+username: 马海尔西
 # 网站副标题
-description: "架起女性与编程的桥梁"
+description: "记录我的生活，学习和训练感悟 🥳"
 
-aboutme: "我的生活，工作 😉🍕🎧"
+aboutme: "我爱⚾"
 
 # 其它配置, 可忽略, 无需修改
 markdown: kramdown
