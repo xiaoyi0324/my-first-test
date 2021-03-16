@@ -4,7 +4,7 @@ title:  "Hello♥我是马海尔西"
 background: "/assets/images/笑容.jpg"
 category: "关于我"
 tags: 自我介绍 
-feature：true
+featured：true
 ---
 
 ## 欢迎来到我的世界
